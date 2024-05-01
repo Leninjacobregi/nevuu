@@ -1,2 +1,3 @@
 print("print")
-print("rishal)
+print("rishal")
+yug
